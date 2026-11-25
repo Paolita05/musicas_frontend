@@ -60,3 +60,6 @@ async function salvarAlteracoes() {
 
     window.location.href = "index.html"
 }
+
+
+parseFloat
